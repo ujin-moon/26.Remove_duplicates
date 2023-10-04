@@ -1,0 +1,15 @@
+D:\Учеба\Проверка\Remove duplicates\bin\Debug\net7.0\Remove duplicates.exe
+D:\Учеба\Проверка\Remove duplicates\bin\Debug\net7.0\Remove duplicates.deps.json
+D:\Учеба\Проверка\Remove duplicates\bin\Debug\net7.0\Remove duplicates.runtimeconfig.json
+D:\Учеба\Проверка\Remove duplicates\bin\Debug\net7.0\Remove duplicates.dll
+D:\Учеба\Проверка\Remove duplicates\bin\Debug\net7.0\Remove duplicates.pdb
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\Remove duplicates.csproj.AssemblyReference.cache
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\Remove duplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\Remove duplicates.AssemblyInfoInputs.cache
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\Remove duplicates.AssemblyInfo.cs
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\Remove duplicates.csproj.CoreCompileInputs.cache
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\Remove duplicates.dll
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\refint\Remove duplicates.dll
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\Remove duplicates.pdb
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\Remove duplicates.genruntimeconfig.cache
+D:\Учеба\Проверка\Remove duplicates\obj\Debug\net7.0\ref\Remove duplicates.dll
